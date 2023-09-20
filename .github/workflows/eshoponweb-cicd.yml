@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: /subscriptions/1fa981e5-a220-4d27-a25a-6ce43da5cb11
-  WEBAPP-NAME: az400-IlayWebApp
+  WEBAPP-NAME: az400-webapp-IlayWebApp
 
 
 jobs:
